@@ -144,7 +144,8 @@ h1 {
         background-size: cover;
         height: 100vh;
         margin: auto;
-        width: 50%;
+        width: 100%;
+        background-position: center;
     }
     .anji {
         display: none;
